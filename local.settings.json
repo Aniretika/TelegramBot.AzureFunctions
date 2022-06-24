@@ -1,0 +1,9 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "token": "5380662040:AAHfnAa5hkCwwV-A43aShbt-yTAMk3Yq-qg",
+    "adminUrl": "https://queuemanageradmin.azurewebsites.net/"
+  }
+}
